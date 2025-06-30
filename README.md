@@ -7,8 +7,8 @@ A curated list of beginner-friendly LeetCode problems with direct links and brie
 ## ✅ Q1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 
 **Description:**  
-A curated list of beginner-friendly LeetCode problems with direct links and brief explanations.
-
+Print numbers from 1 to `n`.
+  
 - "Fizz" for multiples of 3  
 - "Buzz" for multiples of 5  
 - "FizzBuzz" for multiples of both
@@ -54,5 +54,40 @@ Given an integer, subtract the sum of its digits from the product of its digits 
 
 **Description:**  
 For each child, determine if they can have the greatest number of candies if given extra candies.
+
+---
+
+## ✅ Q8. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+
+**Description:**  
+Compute the `n`-th Fibonacci number using recursion or dynamic programming.
+
+---
+
+## ✅ Q9. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
+
+**Description:**  
+Similar to Fibonacci, but each term is the sum of the previous **three** terms.
+
+---
+
+## ✅ Q10. [Power of Two](https://leetcode.com/problems/power-of-two/description/)
+
+**Description:**  
+Check whether a given integer is a power of two.
+
+---
+
+## ✅ Q11. [Power of Three](https://leetcode.com/problems/power-of-three/description/)
+
+**Description:**  
+Check whether a given integer is a power of three.
+
+---
+
+## ✅ Q12. [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+
+**Description:**  
+Implement power function to calculate `x` raised to the power `n` (`xⁿ`), using recursion or iteration.
 
 ---
